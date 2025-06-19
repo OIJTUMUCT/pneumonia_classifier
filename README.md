@@ -1,2 +1,2 @@
 ### Экзаменационное задание выполнил: Лебедев Иоанн Алексеевич
-#### Работа на ходится в [notebook.ipynb](notebook.ipynb)
+#### Работа на ходится в [exam_Lebedev_IA.ipynb](exam_Lebedev_IA.ipynb)
